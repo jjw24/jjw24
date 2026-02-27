@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jjw24&rank=SECRET,SSS,SS,S&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=jjw24&rank=SECRET,SSS,SS,S&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jjw24&rank=AAA,AA,A&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=jjw24&rank=AAA,AA,A&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" />
 </p>
 
 <p align="center" style="witdh:50%">
